@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "posterUrl": "https://th.bing.com/th/id/OIP.vnJImFIy1GEoBBAjyZ-tfQHaK-?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Un ladrón especializado en robar secretos del subconsciente recibe la tarea inversa: implantar una idea.",
+    "duration": 148,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime",
+    "rating": 9.2,
+    "posterUrl": "https://th.bing.com/th/id/OIP.EZncYnNoDxdf2bBsnDbQigHaKg?w=122&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "La historia de la familia mafiosa Corleone y la transición de poder al hijo menor.",
+    "duration": 175,
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 3,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "rating": 8.6,
+    "posterUrl": "https://th.bing.com/th/id/OIP.mFucTUYavoQiNpn_VILQTgHaLH?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Una familia de bajos recursos se infiltra en la vida de una familia adinerada.",
+    "duration": 132,
+    "director": "Bong Joon-ho"
+  },
+  {
+    "id": 4,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "posterUrl": "https://th.bing.com/th/id/OIP.s5tfuwOgumzCl5XtUezX6gHaK_?w=119&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Un equipo viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+    "duration": 169,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 5,
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": "Animation",
+    "rating": 8.6,
+    "posterUrl": "https://th.bing.com/th/id/OIP.EQxcCgyni5VkBzm7KINgyQHaEK?w=323&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Una niña queda atrapada en un mundo de espíritus y debe salvar a sus padres.",
+    "duration": 125,
+    "director": "Hayao Miyazaki"
+  },
+  {
+    "id": 6,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.0,
+    "posterUrl": "https://th.bing.com/th/id/OIP.Z-abpaw6SQyGf6THsACc4wHaEK?w=267&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Batman se enfrenta a un nuevo enemigo que siembra el caos en Gotham.",
+    "duration": 152,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime",
+    "rating": 8.9,
+    "posterUrl": "https://th.bing.com/th/id/OIP.k7MNX64xSU5PFLm3iu5CFAHaLH?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Historias entrelazadas de criminales y mafiosos en Los Ángeles.",
+    "duration": 154,
+    "director": "Quentin Tarantino"
+  },
+
+  {
+    "id": 8,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.3,
+    "posterUrl": "https://th.bing.com/th/id/OIP.KBwRKCB9g4O0ojNzYC1uvwHaD6?w=325&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "La esperanza y la amistad sobreviven dentro de una prisión corrupta.",
+    "duration": 142,
+    "director": "Frank Darabont"
+  },
+  {
+    "id": 9,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "posterUrl": "https://th.bing.com/th/id/OIP.i-RiGkOb5bN6KadsUNnolgHaEK?w=250&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Un programador descubre que la realidad es una simulación y se une a la resistencia.",
+    "duration": 136,
+    "director": "Lana Wachowski, Lilly Wachowski"
+  },
+
+  {
+    "id": 10,
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": "Drama",
+    "rating": 8.8,
+    "posterUrl": "https://th.bing.com/th/id/OIP.jRR7AjGege6SMylivkeGhwHaE7?w=236&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Un hombre desencantado forma un club clandestino que evoluciona en algo peligroso.",
+    "duration": 139,
+    "director": "David Fincher"
+  },
+  {
+    "id": 11,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy",
+    "rating": 8.8,
+    "posterUrl": "https://th.bing.com/th/id/OIP.UBSmJ6wRctU9Km1Q4sdo9gHaEK?w=311&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Comienza la épica travesía para destruir el Anillo Único.",
+    "duration": 178,
+    "director": "Peter Jackson"
+  },
+  {
+    "id": 12,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genre": "Thriller",
+    "rating": 8.6,
+    "posterUrl": "https://th.bing.com/th/id/OIP.rwKxHwhd0ilWPpaQEajqSgHaLH?w=204&h=306&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Una joven agente del FBI busca la ayuda de un brillante pero peligroso prisionero para atrapar a un asesino en serie.",
+    "duration": 118,
+    "director": "Jonathan Demme"
+  },
+  {
+    "id": 13,
+    "title": "The Lion King",
+    "year": 1994,
+    "genre": "Animation",
+    "rating": 8.5,
+    "posterUrl": "https://th.bing.com/th/id/OIP.x1osPL82O1FwAPtbzEbSMgHaLH?w=116&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "La historia del joven Simba, su destino y el ciclo de la vida en la sabana.",
+    "duration": 88,
+    "director": "Roger Allers, Rob Minkoff"
+  },
+  {
+    "id": 14,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genre": "Action",
+    "rating": 8.1,
+    "posterUrl": "https://th.bing.com/th/id/OIP.JDLEKhZjvod4nbPa3LgjOQHaLH?w=121&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Una frenética persecución en un mundo postapocalíptico por la libertad.",
+    "duration": 120,
+    "director": "George Miller"
+  },
+  {
+    "id": 15,
+    "title": "La La Land",
+    "year": 2016,
+    "genre": "Musical",
+    "rating": 8.0,
+    "posterUrl": "https://th.bing.com/th/id/OIP.RN8EzXMPue6J-ZpbWHy7GwHaEK?w=279&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Un músico y una actriz persiguen sus sueños en Los Ángeles entre música y romance.",
+    "duration": 128,
+    "director": "Damien Chazelle"
+  }
+
+]
