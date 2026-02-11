@@ -13,7 +13,7 @@ export default function Home() {
       <header className="min-h-[65vh] flex items-center">
         <div className="w-full max-w-3xl mx-6 md:mx-12 lg:mx-16 p-6 md:p-8 rounded-lg bg-black/30 backdrop-blur-sm">
           <h1 className="text-3xl md:text-5xl font-extrabold leading-tight">
-            Explora el CINE
+            Explora el catalogo
           </h1>
           <p className="mt-3 text-sm md:text-lg text-gray-200 max-w-xl leading-relaxed">
             Toca cualquier póster para ver la imagen ampliada y la descripción. Navega por el catálogo para
